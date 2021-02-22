@@ -1,0 +1,7 @@
+Default Foreground (255, 176, 0)
+Default Bold Foreground (255, 204, 0)
+Default Background (40, 40, 40)
+Red (238, 62, 56)
+Red Bold (255, 17, 17)
+Green (51, 187, 0)
+Green Bold (0, 147, 0)
